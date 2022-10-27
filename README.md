@@ -45,7 +45,7 @@ Uma aplicação mobile inédita da Rocketseat utilizando os serviços do Firebas
 <img align="center" alt="React" height="50" width="150" src="https://www.etatvasoft.com/blog/wp-content/uploads/2020/10/Firebase.png" style="margin-right: 45px"/> <br>
 
 <!-- CSS -->
-<img align="center" alt="React" height="200" width="240" src="https://nativebase.io/img/nativebase-logo-dark.svg" style="margin-left: 150px"/> 
+<img align="center" alt="React" height="200" width="240" src="https://nativebase.io/img/nativebase-logo-dark.svg" style="margin-top: -150px"/> 
  </div>
 <br>
 <br>
