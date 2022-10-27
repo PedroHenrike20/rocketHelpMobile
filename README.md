@@ -40,7 +40,7 @@ Uma aplicação mobile inédita da Rocketseat utilizando os serviços do Firebas
 <br>
 <!-- HTML -->
 <!-- REACT NATIVE -->
-<div style="width: 100%; height: auto; background-color: #222">
+<div style="width: 100%; height: 40%; background-color: #000">
 <img align="center"  alt="HTML" width="200" height="80" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" style="margin-right: 25px"/>
 <img align="center" alt="React" height="200" width="240" src="https://img.youtube.com/vi/fgT6r4f9Apc/maxresdefault.jpg" style="margin-right: 25px"/> 
 
