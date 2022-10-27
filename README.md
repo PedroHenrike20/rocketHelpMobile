@@ -1,7 +1,7 @@
 
 
 <h2 align="center">RocketHelp Mobile</h2>
-<div style="height: auto">
+<div style="height: 100%">
  <img align="center" alt="React" height="200" width="240" src="https://user-images.githubusercontent.com/64162307/198307264-80f568f8-a149-42b2-b1a4-200988df5a59.png" style="margin-right: 25px"/> 
  <img align="center" alt="React" height="200" width="240" src="https://user-images.githubusercontent.com/64162307/198307272-7a0a0337-fa85-4b2a-bd33-c2532e56e863.png" style="margin-right: 25px"/> 
  <img align="center" alt="React" height="200" width="240" src="https://user-images.githubusercontent.com/64162307/198307278-a8b90522-6fb6-493a-a05f-feed4ce45416.png" style="margin-right: 25px"/> 
