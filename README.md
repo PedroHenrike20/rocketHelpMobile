@@ -22,16 +22,16 @@ Uma aplicação mobile inédita da Rocketseat utilizando os serviços do Firebas
 ◽ Login integrado com o Firebase
 </p>
 <p>
-◽ Adicionar novas ocorrências
+◽ Adicionar novos patrimônios
 </p>
 <p>
-◽ Consultar ocorrências existentes
+◽ Consultar patrimônios existentes em andamento
 </p>
 <p>
-◽ Registrar um feedback ao solucionar uma ocorrência 
+◽ Registrar um feedback ao solucionar um patrimônios 
 </p>
 <p>
-◽ Consultar ocorrências finalizadas
+◽ Consultar patrimônios finalizados
 </p>
 
 <br>
