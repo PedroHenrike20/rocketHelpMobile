@@ -34,12 +34,12 @@ Uma aplicação mobile inédita da Rocketseat utilizando os serviços do Firebas
 <br>
 <!-- HTML -->
 <!-- REACT NATIVE -->
-<div style="background-color: #222">
+<div>
 <img align="center"  alt="HTML" width="200" height="80" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" style="margin-right: 25px"/>
-<img align="center" alt="React" height="100" width="120" src="https://img.youtube.com/vi/fgT6r4f9Apc/maxresdefault.jpg" style="margin-right: 25px"/> 
+<img align="center" alt="React" height="200" width="240" src="https://img.youtube.com/vi/fgT6r4f9Apc/maxresdefault.jpg" style="margin-right: 25px"/> 
 
 <!-- CSS -->
-<img align="center" alt="React" height="100" width="120" src="https://nativebase.io/img/nativebase-logo-dark.svg" style="margin-right: 25px"/> 
+<img align="center" alt="React" height="200" width="240" src="https://nativebase.io/img/nativebase-logo-dark.svg" style="margin-right: 25px"/> 
  </div>
 <br>
 <br>
