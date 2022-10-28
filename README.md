@@ -19,19 +19,19 @@ Uma aplicação mobile inédita da Rocketseat utilizando os serviços do Firebas
 ## Suas Funcionalidades
 <br>
 <p>
-◽ Login integrado com o Firebase
+ ☑ Login integrado com o Firebase
 </p>
 <p>
-◽ Adicionar novos patrimônios
+ ☑ Adicionar novos patrimônios
 </p>
 <p>
-◽ Consultar patrimônios existentes em andamento
+ ☑ Consultar patrimônios existentes em andamento
 </p>
 <p>
-◽ Registrar um feedback ao solucionar um patrimônios 
+ ☑ Registrar um feedback ao solucionar um patrimônios 
 </p>
 <p>
-◽ Consultar patrimônios finalizados
+ ☑ Consultar patrimônios finalizados
 </p>
 
 <br>
