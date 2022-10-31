@@ -41,11 +41,11 @@ Uma aplicação mobile inédita da Rocketseat utilizando os serviços do Firebas
 <!-- HTML -->
 <!-- REACT NATIVE -->
 <div>
-<img align="center"  alt="HTML" width="200" height="80" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" style="margin-right: 25px"/> <br> <br>
-<img align="center" alt="React" height="50" width="150" src="https://www.etatvasoft.com/blog/wp-content/uploads/2020/10/Firebase.png" style="margin-right: 45px"/> <br>
+<img align="center"  alt="ReactNative" width="200" height="80" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" style="margin-right: 25px"/> <br> <br>
+<img align="center" alt="Firebase" height="50" width="150" src="https://www.etatvasoft.com/blog/wp-content/uploads/2020/10/Firebase.png" style="margin-right: 45px"/> <br>
 
 <!-- CSS -->
-<img align="center" alt="React" height="200" width="240" src="https://nativebase.io/img/nativebase-logo-dark.svg" style="margin-bottom: 150px"/> 
+<img align="center" alt="NativeBase" height="200" width="240" src="https://nativebase.io/img/nativebase-logo-dark.svg" style="margin-bottom: 150px"/> 
  </div>
 <br>
 <br>
